@@ -95,20 +95,13 @@ Debug.log("g08m11")
 ```
 
 
-変数の値を確認したい場合
+インスタンス変数や変数の値を確認したい場合
 
 ```
 str = "g08m11"
 Debug.log("ここまできてる\(str)")
 ```
 
-
-インスタンス変数の値を確認したい場合
-
-```
-var myComposeView : SLComposeViewController!
-Debug.log("ここまできてる\(myComposeView)")
-```
 
 
 # 見方
