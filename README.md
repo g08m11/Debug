@@ -20,7 +20,8 @@ The better way to deal with Debug in Swift
 # 使うまでの流れ
 
 ## 1.Debugのソースを落としてくる
-[ここから]()zipファイルを落としてきて
+[ここから](https://github.com/g08m11/Debug)
+zipファイルをダウンロードして、「Resource」フォルダ内にある
 「Debug.swift」だけ取り出す。
 
 ## 2.デバッグ時のみ実行したい設定にする
