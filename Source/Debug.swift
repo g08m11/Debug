@@ -23,7 +23,7 @@ struct Debug {
     line: Int = __LINE__) {
       #if DEBUG
         var str = "\(message)\n-- FileName: \(file)\n-- Method: \(function)\n-- Line: \(line)"
-        str = str.stringByReplacingOccurrencesOfString("\n", withString: "\n  ", options: [], range: nil)
+        str = str.stringByReplacingOccurrencesOfString("\n", withString: "\n  ")
         print("\n*** \(str)\n")
       #endif
   }
