@@ -15,6 +15,12 @@ class ViewController: UIViewController {
     Debug.log("ここまできてる")
     // Do any additional setup after loading the view, typically from a nib.
   }
+    
+    @IBAction func tappedButton(sender: UIButton) {
+        
+        Debug.log("タップされた")
+    }
+    
 
   override func didReceiveMemoryWarning() {
     super.didReceiveMemoryWarning()
