@@ -159,6 +159,8 @@
 		CFA8A1541BC2A8D3008D84F0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = Bloc;
 				TargetAttributes = {

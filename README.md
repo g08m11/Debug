@@ -4,18 +4,11 @@ The better way to deal with Debug in Swift
 
 
 ## 実行環境
-### Mac:OSX Yosemite Version 10.10.4
+### Mac:OSX Yosemite Version 10.10.5
 
-![スクリーンショット 2015-08-01 14.40.53.png](https://qiita-image-store.s3.amazonaws.com/0/15812/eb83695a-4126-6ed1-2a5e-5e498e66bf02.png "スクリーンショット 2015-08-01 14.40.53.png")
+### Xcode:7.0
 
-
-### Xcode:6.4(Xcode7では未確認)
-
-
-![スクリーンショット 2015-08-01 14.40.45.png](https://qiita-image-store.s3.amazonaws.com/0/15812/6244088c-30e3-4ac3-910c-b52ac79ba7cc.png "スクリーンショット 2015-08-01 14.40.45.png")
-
-### Swift:1.2(Swift2では未確認)
-
+### Swift:2.0
 
 # 使うまでの流れ
 

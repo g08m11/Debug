@@ -24,7 +24,7 @@ struct Debug {
       #if DEBUG
         var str = "\(message)\n-- FileName: \(file)\n-- Method: \(function)\n-- Line: \(line)"
         str = str.stringByReplacingOccurrencesOfString("\n", withString: "\n  ")
-        print("\n*** \(str)\n")
+        print("\n*** \(str)\n", terminator: "")
       #endif
   }
 }
